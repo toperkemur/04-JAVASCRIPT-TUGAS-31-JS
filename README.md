@@ -17,8 +17,10 @@ Tugas 31 Javascript Niomic
 </html>
 
 ```
+<br>
 
 2. Buatlah file javascript dengan nama “function.js” <br>
+
 3.Silahkan buat kode javascript dengan menggunakan function, pada materi yang telah dipelajari sebelumnya sehingga hasilnya akan seperti gambar dibawah ini : <br>
 
 <p>
