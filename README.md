@@ -21,7 +21,7 @@ Tugas 31 Javascript Niomic
 
 2. Buatlah file javascript dengan nama “function.js” <br>
 
-3.Silahkan buat kode javascript dengan menggunakan function, pada materi yang telah dipelajari sebelumnya sehingga hasilnya akan seperti gambar dibawah ini : <br>
+3. Silahkan buat kode javascript dengan menggunakan function, pada materi yang telah dipelajari sebelumnya sehingga hasilnya akan seperti gambar dibawah ini : <br>
 
 <p>
 <img src="https://lh4.googleusercontent.com/Ry0PExtQvwSjscdWGA5BCBG_97Yv-65ghgYrGAg2uszxVLpzKYOVVPh6kbVffHUGfqYl-uo7fxASjUZNEzfgj5ViGPYnUTV3ZRjEEcIXpHLIyYhgPgMtiEzSw1n1v47M68CnLed5">
